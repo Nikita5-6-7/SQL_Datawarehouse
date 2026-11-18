@@ -1,3 +1,8 @@
+<img width="457" height="660" alt="Screenshot 2026-11-18 142629" src="https://github.com/user-attachments/assets/b7ae0862-4f96-4ff4-877c-a7a6d28734a6" />
+
+# Data Flow
+<img width="981" height="151" alt="image" src="https://github.com/user-attachments/assets/33dbe057-eda6-451e-8c93-5a00495f46ec" />
+
 # Data warehouse
 End-to-end SQL Server data warehouse using Medallion architecture (Bronze → Silver → Gold): CRM and ERP CSV ingestion, data cleaning, star schema, and exploratory analysis.
 Topic(tag)
